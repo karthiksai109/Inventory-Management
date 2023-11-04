@@ -9,8 +9,7 @@
     "server": "nodemon index.js --ignore client"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https//github.com/karthiksai109/urlShortnerApp1-Backend.git"
+    "type": "git"
   },
   "engines" : { 
     "npm" : ">=8.0.0 <9.0.0",
